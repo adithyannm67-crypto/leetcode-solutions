@@ -48,11 +48,9 @@ def get_problem(folder):
     if not title_match or not difficulty_match:
         return None
 
-title = html.unescape(
-    re.sub(r"<[^>]+>", "", title_match.group(1))
-).strip()
+    title = html.unescape(re.sub(r"<[^>]+>", "", title_match.group(1))).strip()
 
-title = re.sub(r"^\d+\.\s*", "", title)
+    title = re.sub(r"^\d+\.\s*", "", title)
 
     difficulty = difficulty_match.group(1).capitalize()
 
