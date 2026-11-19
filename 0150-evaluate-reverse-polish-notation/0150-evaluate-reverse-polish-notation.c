@@ -74,9 +74,9 @@ int evalRPN(char** tokens, int tokensSize) {
                     break;
                 }
 
-                printf("\n %d  %s  %d  =  %d ",a,c,b,result);
+             
                 PUSH(result);
-                printf("TOP    ====   %d ",TOP);
+    
             }
     }
 
