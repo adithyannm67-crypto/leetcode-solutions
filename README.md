@@ -12,6 +12,7 @@ Solutions are synced from LeetCode with [LeetHub](https://github.com/QasimWani/L
 | 2 | [Add Two Numbers](0002-add-two-numbers/README.md) | Medium | C | [View](0002-add-two-numbers/0002-add-two-numbers.c) |
 | 3 | [Longest Substring Without Repeating Characters](0003-longest-substring-without-repeating-characters/README.md) | Medium | Python | [View](0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py) |
 | 4 | [Median of Two Sorted Arrays](0004-median-of-two-sorted-arrays/README.md) | Hard | Python | [View](0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py) |
+| 83 | [Remove Duplicates from Sorted List](0083-remove-duplicates-from-sorted-list/README.md) | Easy | C | [View](0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.c) |
 | 150 | [Evaluate Reverse Polish Notation](0150-evaluate-reverse-polish-notation/README.md) | Medium | C | [View](0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.c) |
 | 160 | [Intersection of Two Linked Lists](0160-intersection-of-two-linked-lists/README.md) | Easy | C | [View](0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.c) |
 | 234 | [Palindrome Linked List](0234-palindrome-linked-list/README.md) | Easy | C | [View](0234-palindrome-linked-list/0234-palindrome-linked-list.c) |
